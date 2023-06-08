@@ -54,12 +54,14 @@ section {
 		margin: 2%;
 	}
 	div.col-mid-1 {
-		width: 100%;
+		width: 98%;
+  margin: 1%;
 	}
 }
 
 @media (max-width: 767px) {
 	div.col-sm-1 {
-		width: 100%;
+		width: 98%;
+  margin: 1%;
 	}
 }
